@@ -1,0 +1,27 @@
+body{
+  font-family: Verdana;
+  background-image: url(https://dncache-mauganscorp.netdna-ssl.com/thumbseg/554/554834-bigthumbnail.jpg);
+  color: white;
+}
+
+table {
+  border: 1px solid white;
+  width: 30%;
+}
+
+#board-div {
+  padding: 5px;
+  margin: auto;
+}
+
+td {
+  border: 1px solid white;
+
+}
+
+#x-button {
+  color: red;
+}
+
+
+
